@@ -1,7 +1,7 @@
 name: Snapthat Portrait Photography
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.6976480702869594
+typography_spectrum: 0.43927
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#788a00'
     - '#008598'
     - '#d7a8a0'
-  brandStrength: 0.7388328544329852
-  lightness: 0.30704449652694166
-  saturation: 0.08674888825044036
-  rhythmicContrast: 0.11874433606863022
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
